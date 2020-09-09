@@ -2,11 +2,9 @@
 
 ### 7 Boxes
 
-1. Refresh your Flexbox skills with this fun game [flexboxfroggy](http://flexboxfroggy.com)
+1. Create 7 Boxes with Flexbox & Mediaqueries.
 
-2. Create 7 Boxes with Flexbox & Mediaqueries.
-
-3. There are 7 boxes on the page, each has a color. Style the boxes as follows:
+2. There are 7 boxes on the page, each has a color. Style the boxes as follows:
 
    * 0px-600px: boxes 1-7 should each take up 100% of one row
 
@@ -26,7 +24,7 @@ Images for reference:
 
 -   This is an individual assignment.
 -   Deadline: 1 and 1/2 hours.
--   Use **Git properly**
+-   Use **Git properly** - i.e. Create a branch to work on, push your solution to that branch, and request a review. 
 -   Feel free to document your code with comments.
 
 
